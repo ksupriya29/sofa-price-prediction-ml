@@ -46,4 +46,3 @@ This repository contains an end-to-end MLOps pipeline designed to solve pricing 
 - **G. Satwika** — B.Tech CSE
 
 ---
-⭐ *If you find this project useful, please star the repository!*
